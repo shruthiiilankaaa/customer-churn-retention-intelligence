@@ -1,0 +1,4 @@
+Contract,customer_count,churned_customer_count,churn_rate_pct,total_monthly_charges,churned_mrr
+Month-to-month,3875,1655,42.71,257294.15,120847.1
+One year,1473,166,11.27,95816.6,14118.45
+Two year,1695,48,2.83,103005.85,4165.3

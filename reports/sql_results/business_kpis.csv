@@ -1,0 +1,2 @@
+total_customers,active_customers,churned_customers,overall_churn_rate_pct,total_baseline_mrr,active_customer_mrr,churned_customer_mrr_exposure,mrr_churn_rate_pct,avg_monthly_charges_active,avg_monthly_charges_churned,avg_monthly_charges_overall,simple_annualized_mrr_exposure
+7043,5174,1869,26.54,456116.6,316985.75,139130.85,30.5,61.27,74.44,64.76,1669570.2
